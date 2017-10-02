@@ -1,0 +1,4 @@
+C:\Users\yonty\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug

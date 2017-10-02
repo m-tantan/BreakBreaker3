@@ -1,0 +1,154 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h
+string
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliWin.h
+sdkddkver.h
+-
+Windows.h
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Colors.h
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/DXErr.cpp
+dxerr.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/dxerr.h
+stdio.h
+-
+algorithm
+-
+ddraw.h
+-
+d3d9.h
+-
+dinput.h
+-
+dinputd.h
+-
+d3d10_1.h
+-
+d3d11_1.h
+-
+wincodec.h
+-
+d2derr.h
+-
+dwrite.h
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/DXErr.h
+ChiliWin.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliWin.h
+sal.h
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.cpp
+MainWindow.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.h
+Game.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.h
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.h
+Keyboard.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.h
+Mouse.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.h
+Graphics.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.h
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.cpp
+MainWindow.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.h
+Graphics.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.h
+DXErr.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/DXErr.h
+ChiliException.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h
+assert.h
+-
+string
+-
+array
+-
+FramebufferPS.shh
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/FramebufferPS.shh
+FramebufferVS.shh
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/FramebufferVS.shh
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.h
+d3d11.h
+-
+ChiliException.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h
+Colors.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Colors.h
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.cpp
+Keyboard.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.h
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.h
+queue
+-
+bitset
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.cpp
+MainWindow.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.h
+Resource.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Resource.h
+Graphics.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.h
+ChiliException.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h
+Game.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.h
+assert.h
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.h
+ChiliWin.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliWin.h
+Graphics.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.h
+Keyboard.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.h
+Mouse.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.h
+ChiliException.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h
+string
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.cpp
+Mouse.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.h
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.h
+queue
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/dxerr.h
+ChiliWin.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliWin.h
+sal.h
+-
+
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/main.cpp
+MainWindow.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.h
+Game.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.h
+ChiliException.h
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h
+

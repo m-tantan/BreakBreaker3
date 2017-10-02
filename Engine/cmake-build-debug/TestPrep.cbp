@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TestPrep"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chiliGuide">
+				<Option output="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug/chiliGuide.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 chiliGuide"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chiliGuide/fast">
+				<Option output="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug/chiliGuide.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 chiliGuide/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/yonty/Google\ Drive/Huji/Huji/Second\ Year/67319\ -\ Programming\ Workshop\ in\ C++\ -\ Summer\ Course/chiliGuide/Chili\ Framework\ 2016/Engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliException.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/ChiliWin.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Colors.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/DXErr.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/DXErr.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Engine.vcxproj">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Engine.vcxproj.filters">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Engine.vcxproj.user">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/FramebufferPS.hlsl">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/FramebufferVS.hlsl">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Game.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Graphics.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Keyboard.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/MainWindow.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Mouse.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Resource.h">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/Resource.rc">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/main.cpp">
+			<Option target="chiliGuide"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
