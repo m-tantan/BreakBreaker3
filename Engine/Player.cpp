@@ -1,5 +1,8 @@
 #include "Player.h"
 
-Player::Player() : _px(450), _py(550), _width(20), _height(5)
+void Player::playerReset()
 {
+	_px = 390;
+	_py = 580;
+	_pv = 0;
 }

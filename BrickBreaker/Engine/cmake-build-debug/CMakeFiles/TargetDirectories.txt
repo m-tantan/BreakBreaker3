@@ -1,0 +1,3 @@
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/yonty/Google Drive/Huji/Huji/Second Year/67319 - Programming Workshop in C++ - Summer Course/chiliGuide/Chili Framework 2016/Engine/cmake-build-debug/CMakeFiles/chiliGuide.dir
